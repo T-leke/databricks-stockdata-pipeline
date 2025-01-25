@@ -18,7 +18,7 @@ This project demonstrates a scalable data engineering solution for extracting, t
 - **Databricks**: Cloud platform for executing the pipeline.
 - **Azure Data Lake Storage (ADLS)**: Destination for storing transformed data.
 - **Alpha Vantage API**: Source of financial data.
-- **Pandas**: Data manipulation and transformation.
+- **Pandas & Pyspark**: Data manipulation and transformation.
 - **Git**: Version control and collaboration.
 
 ---
