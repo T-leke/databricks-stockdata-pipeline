@@ -2,7 +2,8 @@
 
 This project demonstrates a scalable data engineering solution for extracting, transforming, and storing financial data using the [Alpha Vantage API](https://www.alphavantage.co/). The pipeline is designed to extract historical stock data for multiple symbols, transform it into a structured format, and store it in a cloud-based data lake for downstream analytics.
 
-![Pipeline Diagram]([Data Architecture.jpg](https://github.com/T-leke/databricks-stockdata-pipeline/blob/main/Data%20Architecture.jpg) "Financial Data Pipeline Diagram")
+![Pipeline Diagram](./Data%20Architecture.jpg "Financial Data Pipeline Diagram")
+
 
 
 ---
