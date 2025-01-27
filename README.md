@@ -4,8 +4,8 @@ This project demonstrates a scalable data engineering solution for extracting, t
 
 ![Pipeline Diagram](./Data%20Architecture.jpg "Financial Data Pipeline Diagram")
 
-
-
+# **Data Model**
+![Data model Diagram](./data%20model.jpg "Data Model diagram")
 ---
 
 ## **Features**
